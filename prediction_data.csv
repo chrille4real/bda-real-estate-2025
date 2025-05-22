@@ -1,0 +1,4 @@
+District,Stories,Year_Built,Rooms,FinishedSqft,Units,Bdrms,Fbath,Hbath,Lotsize,Sale_year,Sale_month,Sale_quarter,PropType_exempt,PropType_lg apartment,PropType_manufacturing,PropType_residential,IsMultiUnit,Style_Apartment,Style_Commercial,Style_Duplex,Style_Multi-Family,Style_Other / Unknown,Style_Rooming House,Style_Single Family,EXT_Brick/Stone,EXT_Siding,EXT_Stucco,EXT_Other,Sale_price
+14.0,0.045454545454545456,0.9637163276525564,4.0,0.0052116727606702825,1.0,0.0625,0.14285714285714285,0.0,0.0026832671460770637,2010,5,2,0,0,0,1,0.0,0,0,0,0,0,0,1,0,1,0,0,145000.0
+7.0,0.045454545454545456,0.9538207806487082,5.0,0.0055582511653698855,1.0,0.0625,0.14285714285714285,0.1,0.0037267599251070327,2021,2,1,0,0,0,1,0.0,0,0,0,0,0,0,1,0,1,0,0,142000.0
+4.0,0.045454545454545456,0.9785596481583287,5.0,0.004223924307276413,1.0,0.0625,0.2857142857142857,0.0,0.0,2021,7,3,0,0,0,0,0.0,1,0,0,0,0,0,0,0,0,0,1,142000.0
